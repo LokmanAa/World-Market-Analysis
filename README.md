@@ -1,6 +1,6 @@
 Market Research Analysis with R/Python
 
-This project focuses on conducting a comprehensive market study, from data collection to advanced analysis, aimed at providing strategic recommendations. You'll adopt the role of a data analyst advising company leadership.
+This project focuses on conducting a comprehensive market study, from data collection to advanced analysis, aimed at providing strategic recommendations.
  
 Key Skills Acquired:
 
