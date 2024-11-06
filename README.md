@@ -1,4 +1,4 @@
-Market Research Analysis with R/Python
+Market Research Analysis with Python
 
 This project focuses on conducting a comprehensive market study, from data collection to advanced analysis, aimed at providing strategic recommendations.
  
@@ -12,7 +12,7 @@ Key Skills Acquired:
 
 Technologies Used:
 
-    Python / R: Data processing, clustering, and analysis.
+    Python: Data processing, clustering, and analysis.
     Pandas / NumPy: Data manipulation and cleaning.
     Scikit-learn: Clustering and dimensionality reduction techniques.
     Matplotlib / Seaborn: Visualizing insights for better communication.
